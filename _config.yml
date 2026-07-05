@@ -1,3 +1,2 @@
-theme: jekyll-theme-minimal
-title: Benjamin van Kessel
-description: A portfolio site showcasing my skillset
+npm install
+npm run build
