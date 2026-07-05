@@ -7,5 +7,6 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: 'https://justgogamer.github.io'
+  site: 'https://justgogamer.github.io',
+  base: '/devportfolio'
 });
