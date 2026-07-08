@@ -1,0 +1,1 @@
+declare module "three/dist/three.min.js";
